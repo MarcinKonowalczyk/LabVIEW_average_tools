@@ -7,5 +7,4 @@
 	<Item Name="core_rw_controls_to_file.vi" Type="VI" URL="../core_rw_controls_to_file.vi"/>
 	<Item Name="poly_persist_controls_auto_read.vi" Type="VI" URL="../poly_persist_controls_auto_read.vi"/>
 	<Item Name="poly_persist_controls_auto_write.vi" Type="VI" URL="../poly_persist_controls_auto_write.vi"/>
-	<Item Name="RWC_Actions.ctl" Type="VI" URL="../RWC_Actions.ctl"/>
 </Library>
