@@ -4,6 +4,8 @@ code,description,thown by
 2,Opening vi reference failed.,api_reference_preprocess
 3,Closing vi refernece failed. It may have been closed before the api vi ref chain terminated.,api_reference_preprocess
 4,Writing to variable though property noed (or method) failed. The value written might be invalid.,signalling_write
+5,Could not open the reference to calling vi.,poly_controll_value…
+,,
 1000,### timing_tools ###,
 1001,Wait for notification has been stopped before notification has been received.,
 1002,Could not perforn a notifier operation. Most probably the notifier has been released before the attempt attempted action.,
