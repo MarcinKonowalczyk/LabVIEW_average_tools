@@ -49,6 +49,11 @@ Things I'm not doing because they are not crucial yet, but I will eventually tic
 ### Hard ToDos
 Basically things I do not know how to do myslef (either because they are difficult or because I have not spent much time researching how to actually get it done). Please help.
  - Make this into an actuall package on VIPM (When it's actually done of course)
+<<<<<<< HEAD
  - Add fancy menu items ??
  - Make help files ??
  - Custom front pannel control set... ?
+=======
+ - Add fancy menu items
+ - Does anyone know good way to write a vi which works with (any) queues?
+>>>>>>> documentation
