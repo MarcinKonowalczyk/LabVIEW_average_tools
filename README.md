@@ -25,3 +25,4 @@ Things I'm not doing because they are not crucial yet, but I will eventually tic
 Basically things I do not know how to do myslef (either because they are difficult or because I have not spent much time researching how to actually get it done). Please help.
  - Make this into an actuall package on VIPM (When it's actually done of course)
  - Add fancy menu items
+ - Does anyone know good way to write a vi which works with (any) queues?
