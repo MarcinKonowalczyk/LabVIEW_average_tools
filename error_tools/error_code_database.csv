@@ -1,6 +1,6 @@
 code,description,thown by
 0,### ref_tools ###,
-1,"Control with than name could not be found. This could be a typo in the conrtol name, or a change in in the name of the control itself.",control_ref_form_name
+1,"control with than name could not be found. This could be a typo in the conrtol name, or a change in in the name of the control itself.",control_ref_form_name
 2,Opening vi reference failed.,api_reference_preprocess
 3,Closing vi refernece failed. It may have been closed before the api vi ref chain terminated.,api_reference_preprocess
 4,Writing to variable though property noed (or method) failed. The value written might be invalid.,signalling_write
