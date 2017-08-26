@@ -174,6 +174,7 @@
 				<Item Name="GPError.lvlib" Type="Library" URL="/&lt;vilib&gt;/GPower/Error/GPError.lvlib"/>
 				<Item Name="GPNumeric.lvlib" Type="Library" URL="/&lt;vilib&gt;/GPower/Numeric/GPNumeric.lvlib"/>
 				<Item Name="GPOverflow.lvlib" Type="Library" URL="/&lt;vilib&gt;/GPower/Overflow/GPOverflow.lvlib"/>
+				<Item Name="GPString.lvlib" Type="Library" URL="/&lt;vilib&gt;/GPower/String/GPString.lvlib"/>
 				<Item Name="GPTiming.lvlib" Type="Library" URL="/&lt;vilib&gt;/GPower/Timing/GPTiming.lvlib"/>
 				<Item Name="H5A.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/h5labview2/attrib/H5A.lvlib"/>
 				<Item Name="H5Equery.vi" Type="VI" URL="/&lt;vilib&gt;/addons/h5labview2/base/H5Equery.vi"/>
