@@ -25,3 +25,7 @@ Things I'm not doing because they are not crucial yet, but I will eventually tic
 Basically things I do not know how to do myslef (either because they are difficult or because I have not spent much time researching how to actually get it done). Please help.
  - Make this into an actuall package on VIPM (When it's actually done of course)
  - Add fancy menu items
+
+## Color palette
+
+Control icon backgroud 'yellow' is [255,201,0] in RGB. Front pannel background 'faint yellow' is [255,238,140]
