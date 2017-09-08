@@ -40,6 +40,8 @@ These can be done by almost anyone. Some require LabVIEW, but none require much 
 - Make the colours in vis consistent (currently there are two yellows around the place)
 - Prepare design guidelines (Rough list of colours used, block diagram best practises etc.)
 - Add small README to each toolbox describing what it does
+- Add more data_queue datatypes
+- Add more diff data types
 
 ### More difficult ToDos
 
