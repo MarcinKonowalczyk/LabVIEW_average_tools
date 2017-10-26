@@ -8,4 +8,7 @@ code,description,thown by
 ,,
 1000,### timing_tools ###,
 1001,Wait for notification has been stopped before notification has been received.,
-1002,Could not perforn a notifier operation. Most probably the notifier has been released before the attempt attempted action.,
+1002,Could not perform a notifier operation. Most probably the notifier has been released before the attempt attempted action.,
+,,
+2000,### Average tools ###,
+2001,Queue size must be larget than 0,data_queue
