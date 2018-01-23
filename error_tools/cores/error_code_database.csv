@@ -12,3 +12,6 @@ code,description,thown by
 ,,
 2000,### Average tools ###,
 2001,Queue size must be larget than 0,data_queue
+,,
+3000,### H5 tools ###,
+3002,Invalid path supplied,h5_open
